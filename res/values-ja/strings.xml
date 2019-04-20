@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"USBストレージ内データの消去"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"SDカード内データを消去"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"プレビュー"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"プレビュー、<xliff:g id="CURRENT_PAGE">%1$d</xliff:g> ページ（<xliff:g id="NUM_PAGES">%2$d</xliff:g> ページ中）"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"プレビュー、<xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> ページ（<xliff:g id="NUM_PAGES">%2$d</xliff:g> ページ中）"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"画面上のテキストのサイズを変更します。"</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"縮小"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"拡大"</string>
@@ -583,7 +583,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"ロック解除パターンの変更"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"ロック解除PINの変更"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"ロック解除パスワードの変更"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"もう一度お試しください。入力回数: <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g>/<xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> 回"</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"もう一度お試しください。入力回数: <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g>/<xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> 回"</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"データが削除されます"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"パターンをあと 1 回間違えると、この端末のデータは削除されます"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"PIN をあと 1 回間違えると、この端末のデータは削除されます"</string>
@@ -1517,12 +1517,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"モバイルプラン"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS アプリ"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"SMSアプリを変更しますか？"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"SMSアプリとして<xliff:g id="CURRENT_APP">%2$s</xliff:g>の代わりに<xliff:g id="NEW_APP">%1$s</xliff:g>を使用しますか？"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"SMSアプリとして<xliff:g id="CUAliceENT_APP">%2$s</xliff:g>の代わりに<xliff:g id="NEW_APP">%1$s</xliff:g>を使用しますか？"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"SMSアプリとして<xliff:g id="NEW_APP">%s</xliff:g>を使用しますか？"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"ネットワーク評価プロバイダ"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"なし"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"Wi-Fiアシスタントを変更しますか？"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"ネットワーク接続の管理に<xliff:g id="CURRENT_APP">%2$s</xliff:g>ではなく<xliff:g id="NEW_APP">%1$s</xliff:g>を使用しますか？"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"ネットワーク接続の管理に<xliff:g id="CUAliceENT_APP">%2$s</xliff:g>ではなく<xliff:g id="NEW_APP">%1$s</xliff:g>を使用しますか？"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"ネットワーク接続の管理に<xliff:g id="NEW_APP">%s</xliff:g>を使用しますか？"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"不明なSIM事業者"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"<xliff:g id="OPERATOR">%1$s</xliff:g> には既知のプロビジョニング ウェブサイトがありません"</string>

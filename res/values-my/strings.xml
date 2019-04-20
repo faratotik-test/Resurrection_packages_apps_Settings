@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"USBသိုလှောင်မှု ဖျက်ခြင်း"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"SDကတ်အား ဖျက်ရန်"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"အစမ်းကြည့်ပါ"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"စာမျက်နှာ <xliff:g id="NUM_PAGES">%2$d</xliff:g> အနက်မှ စာမျက်နှာ <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> ကို အစမ်းကြည့်ခြင်း"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"စာမျက်နှာ <xliff:g id="NUM_PAGES">%2$d</xliff:g> အနက်မှ စာမျက်နှာ <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> ကို အစမ်းကြည့်ခြင်း"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"မျက်နှာပြင်ပေါ်ရှိ စာလုံးကို ပိုသေးအောင် သို့မဟုတ် ပိုကြီးအောင် လုပ်ပါ။"</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"ပိုသေးအောင် ပြုလုပ်ပါ"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"ပိုကြီးအောင် ပြုလုပ်ပါ"</string>
@@ -583,7 +583,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"သော့ဖွင့်ရန်ပုံဖော်မှုအား ပြောင်းမည်"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"ပင်နံပါတ်ပြောင်းမည်"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"ဖွင့်ရန်စကားဝှက်အား ပြောင်းမည်"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"ထပ်စမ်းကြည့်ပါ။ စုစုပေါင်း <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> ကြိမ်အနက်မှ <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> ကြိမ် ကြိုးပမ်းမှုဖြစ်သည်။"</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"ထပ်စမ်းကြည့်ပါ။ စုစုပေါင်း <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> ကြိမ်အနက်မှ <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> ကြိမ် ကြိုးပမ်းမှုဖြစ်သည်။"</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"သင်၏ဒေတာများ ပျက်သွားပါလိမ့်မည်"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"မှားယွင်းသည့် ပုံစံကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက ဤစက်ပစ္စည်းပေါ်ရှိ ဒေတာများကို ဖျက်လိုက်ပါမည်"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"မှားယွင်းသည့် ပင်နံပါတ်ကို နောက်တစ်ကြိမ်ထည့်သွင်းပါက ဤစက်ပစ္စည်းပေါ်ရှိ ဒေတာများကို ဖျက်လိုက်ပါမည်"</string>
@@ -1517,12 +1517,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"မိုဘိုင်းလ်အစီအစဉ်"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS အက်ပ်"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"စာတိုပို့ရန် အက်ပ်ပြောင်းမလား။"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"သင့်စာတိုပို့ရန် အပလီကေးရှင်းအတွက် <xliff:g id="NEW_APP">%1$s</xliff:g> ကို <xliff:g id="CURRENT_APP">%2$s</xliff:g> အစား သုံးမည်လား?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"သင့်စာတိုပို့ရန် အပလီကေးရှင်းအတွက် <xliff:g id="NEW_APP">%1$s</xliff:g> ကို <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> အစား သုံးမည်လား?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"<xliff:g id="NEW_APP">%s</xliff:g> ကို သင်၏စာတိုပို့ရန် အပလီကေးရှင်းအဖြစ် သုံးမည်လား ?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"ကွန်ရက်အဆင့်သတ်မှတ်ပေးသူ"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"တစ်ခုမျှမရှိ"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"ကြိုးမဲ့ ကူညီပေးသူကို ပြောင်းမလား?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"သင်၏ ကွန်ရက် ချိတ်ဆက်မှုများကို စီမံကွပ်ကဲရန် <xliff:g id="NEW_APP">%1$s</xliff:g>ကို <xliff:g id="CURRENT_APP">%2$s</xliff:g>၏အစား သုံးရမလား?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"သင်၏ ကွန်ရက် ချိတ်ဆက်မှုများကို စီမံကွပ်ကဲရန် <xliff:g id="NEW_APP">%1$s</xliff:g>ကို <xliff:g id="CUAliceENT_APP">%2$s</xliff:g>၏အစား သုံးရမလား?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"သင်၏ ကွန်ရက် ချိတ်ဆက်မှုများကို စီမံကွပ်ကဲရန် <xliff:g id="NEW_APP">%s</xliff:g>ကို သုံးရမလား?{"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"မသိရ ဆင်းမ် အော်ပရေတာ"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"<xliff:g id="OPERATOR">%1$s</xliff:g> တွင် မည်သည့်ဝဘ်ဆိုက်မျှ​ ပေးထားခြင်းမရှိပါ"</string>

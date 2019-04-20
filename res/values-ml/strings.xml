@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"USB സ്റ്റോറേജ്  മായ്ക്കുക"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"SD കാർഡ് മായ്ക്കുക"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"പ്രിവ്യു നടത്തുക"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"പ്രിവ്യൂ, <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> / <xliff:g id="NUM_PAGES">%2$d</xliff:g> പേജ്"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"പ്രിവ്യൂ, <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> / <xliff:g id="NUM_PAGES">%2$d</xliff:g> പേജ്"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"സ്ക്രീനിലെ ടെക്സ്റ്റ് ചെറുതോ വലുതോ ആക്കുക."</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"ചെറുതാക്കുക"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"വലുതാക്കുക"</string>
@@ -583,7 +583,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"അൺലോക്ക് പാറ്റേൺ മാറ്റുക"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"അൺലോക്ക് പിൻ മാറ്റുക"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"അൺലോക്ക് പാസ്‌വേഡ് മാറ്റുക"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"വീണ്ടും ശ്രമിക്കുക. <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> / <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> ശ്രമം."</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"വീണ്ടും ശ്രമിക്കുക. <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> / <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> ശ്രമം."</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"നിങ്ങളുടെ ഡാറ്റ ഇല്ലാതാക്കപ്പെടും"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"അടുത്ത തവണയും നിങ്ങൾ തെറ്റായ പാറ്റേൺ നൽകിയാൽ, ഈ ഉപകരണത്തിലെ ഡാറ്റ ഇല്ലാതാക്കപ്പെടും"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"അടുത്ത തവണയും നിങ്ങൾ തെറ്റായ പിൻ നൽകിയാൽ, ഈ ഉപകരണത്തിലെ ഡാറ്റ ഇല്ലാതാക്കപ്പെടും"</string>
@@ -1517,12 +1517,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"മൊബൈൽ പ്ലാൻ"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS അപ്ലിക്കേഷൻ"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"SMS അപ്ലിക്കേഷൻ മാറ്റണോ?"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"നിങ്ങളുടെ SMS അപ്ലിക്കേഷനായി <xliff:g id="CURRENT_APP">%2$s</xliff:g> എന്നതിനുപകരം <xliff:g id="NEW_APP">%1$s</xliff:g> ഉപയോഗിക്കണോ?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"നിങ്ങളുടെ SMS അപ്ലിക്കേഷനായി <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> എന്നതിനുപകരം <xliff:g id="NEW_APP">%1$s</xliff:g> ഉപയോഗിക്കണോ?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"നിങ്ങളുടെ SMS അപ്ലിക്കേഷനായി <xliff:g id="NEW_APP">%s</xliff:g> ഉപയോഗിക്കണോ?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"നെറ്റ്‌വർക്ക് റേറ്റിംഗ് ദാതാവ്"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"ഒന്നുമില്ല"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"വൈഫൈ അസിസ്‌റ്റന്റ് മാറ്റണോ?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"നിങ്ങളുടെ നെറ്റ്‌വർക്ക് കണക്ഷനുകൾ നിയന്ത്രിക്കാൻ <xliff:g id="CURRENT_APP">%2$s</xliff:g> എന്നതിന് പകരം <xliff:g id="NEW_APP">%1$s</xliff:g> എന്നതാണോ ഉപയോഗിക്കുന്നത്?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"നിങ്ങളുടെ നെറ്റ്‌വർക്ക് കണക്ഷനുകൾ നിയന്ത്രിക്കാൻ <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> എന്നതിന് പകരം <xliff:g id="NEW_APP">%1$s</xliff:g> എന്നതാണോ ഉപയോഗിക്കുന്നത്?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"നിങ്ങളുടെ നെറ്റ്‌വർക്ക് കണക്ഷനുകൾ നിയന്ത്രിക്കാൻ <xliff:g id="NEW_APP">%s</xliff:g> ആണോ ഉപയോഗിക്കുന്നത്?"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"അജ്ഞാത സിം ഓപ്പറേറ്റർ"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"<xliff:g id="OPERATOR">%1$s</xliff:g> എന്ന ഓപ്പറേറ്റർക്ക് അറിയപ്പെടുന്ന പ്രൊവിഷനിംഗ് വെബ്‌സൈറ്റ് ഒന്നുമില്ല"</string>

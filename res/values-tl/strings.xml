@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"Burahin storage na USB"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"Burahin ang SD card"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"I-preview"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"Preview, page <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> ng <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"Preview, page <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> ng <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"Gawing mas maliit o mas malaki ang text sa screen."</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"Paliitin"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"Palakihin"</string>
@@ -583,7 +583,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"Baguhin ang naka-unlock na pattern"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"Palitan ang PIN na pang-unlock"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"Baguhin ang naka-unlock na password"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Subukang muli. Pagsubok <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> ng <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>."</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Subukang muli. Pagsubok <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> ng <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>."</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"Made-delete ang iyong data"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"Kung maling pattern ang mailalagay mo sa susunod na pagsubok, made-delete ang data ng device na ito"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"Kung maling PIN ang mailalagay mo sa susunod na pagsubok, made-delete ang data ng device na ito"</string>
@@ -1517,12 +1517,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"Mobile plan"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS app"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"Palitan ang SMS app?"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"Gamitin ang <xliff:g id="NEW_APP">%1$s</xliff:g> sa halip na ang <xliff:g id="CURRENT_APP">%2$s</xliff:g> bilang iyong SMS app?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"Gamitin ang <xliff:g id="NEW_APP">%1$s</xliff:g> sa halip na ang <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> bilang iyong SMS app?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"Gamitin ang <xliff:g id="NEW_APP">%s</xliff:g> bilang iyong SMS app?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"Provider ng rating ng network"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"Wala"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"Baguhin ang Wi‑Fi assistant?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"Gamitin ang <xliff:g id="NEW_APP">%1$s</xliff:g> sa halip na ang <xliff:g id="CURRENT_APP">%2$s</xliff:g> upang pamahalaan ang iyong mga koneksyon sa network?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"Gamitin ang <xliff:g id="NEW_APP">%1$s</xliff:g> sa halip na ang <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> upang pamahalaan ang iyong mga koneksyon sa network?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"Gamitin ang <xliff:g id="NEW_APP">%s</xliff:g> upang pamahalaan ang iyong mga koneksyon sa network?"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"Hindi kilalang SIM operator"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"Walang kilalang provisioning website ang <xliff:g id="OPERATOR">%1$s</xliff:g>"</string>

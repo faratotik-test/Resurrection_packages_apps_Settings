@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"USB স্টোরেজ মুছে ফেলুন"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"SD কার্ড মুছে ফেলুন"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"প্রিভিউ"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"প্রিভিউ, <xliff:g id="NUM_PAGES">%2$d</xliff:g>টির মধ্যে <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> নম্বর পৃষ্ঠা"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"প্রিভিউ, <xliff:g id="NUM_PAGES">%2$d</xliff:g>টির মধ্যে <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> নম্বর পৃষ্ঠা"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"স্ক্রিনের টেক্সট ছোট বা বড় করুন।"</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"আরো ছোট করুন"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"আরো বড় করুন"</string>
@@ -583,7 +583,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"আনলক প্যাটার্ন পরিবর্তন করুন"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"আনলক পিন পরিবর্তন করুন"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"আনলক পাসওয়ার্ড পরিবর্তন করুন"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"আবার চেষ্টা করুন৷ <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>টি প্রচেষ্টার মধ্যে <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> নম্বর৷"</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"আবার চেষ্টা করুন৷ <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>টি প্রচেষ্টার মধ্যে <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> নম্বর৷"</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"আপনার ডেটা মুছে দেওয়া হবে"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"পরের বারেও ভুল প্যাটার্ন আঁকলে এই ডিভাইসের ডেটা মুছে দেওয়া হবে"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"পরের বারও ভুল পিন লিখলে এই ডিভাইসের ডেটা মুছে দেওয়া হবে"</string>
@@ -1517,12 +1517,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"মোবাইল প্ল্যান"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS অ্যাপ্লিকেশান"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"SMS অ্যাপ্লিকেশান পরিবর্তন করবেন?"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"<xliff:g id="CURRENT_APP">%2$s</xliff:g> এর পরিবর্তে <xliff:g id="NEW_APP">%1$s</xliff:g> কে SMS অ্যাপ্লিকেশান হিসেবে ব্যবহার করবেন?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"<xliff:g id="CUAliceENT_APP">%2$s</xliff:g> এর পরিবর্তে <xliff:g id="NEW_APP">%1$s</xliff:g> কে SMS অ্যাপ্লিকেশান হিসেবে ব্যবহার করবেন?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"<xliff:g id="NEW_APP">%s</xliff:g> কে আপনার SMS অ্যাপ্লিকেশান হিসেবে ব্যবহার করবেন?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"নেটওয়ার্ক রেটিং প্রদানকারী"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"কোনো কিছুই নয়"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"ওয়াই-ফাই সহকারী পরিবর্তন করবেন?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"আপনার নেটওয়ার্ক কানেকশন পরিচালনা করার জন্য <xliff:g id="CURRENT_APP">%2$s</xliff:g> এর পরিবর্তে <xliff:g id="NEW_APP">%1$s</xliff:g> ব্যবহার করবেন?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"আপনার নেটওয়ার্ক কানেকশন পরিচালনা করার জন্য <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> এর পরিবর্তে <xliff:g id="NEW_APP">%1$s</xliff:g> ব্যবহার করবেন?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"আপনার নেটওয়ার্ক কানেকশন পরিচালনা করার জন্য <xliff:g id="NEW_APP">%s</xliff:g> ব্যবহার করবেন?"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"সিম এর পরিষেবা প্রদানকারী অজানা"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"<xliff:g id="OPERATOR">%1$s</xliff:g> এর কোনো পরিচিত প্রভিশনিং ওয়েবসাইট নেই"</string>

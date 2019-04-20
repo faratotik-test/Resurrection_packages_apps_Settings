@@ -9,14 +9,14 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="summary_collapsed_preference_list" msgid="5190123168583152844">"<xliff:g id="CURRENT_ITEMS">%1$s</xliff:g>、<xliff:g id="ADDED_ITEMS">%2$s</xliff:g>"</string>
+    <string name="summary_collapsed_preference_list" msgid="5190123168583152844">"<xliff:g id="CUAliceENT_ITEMS">%1$s</xliff:g>、<xliff:g id="ADDED_ITEMS">%2$s</xliff:g>"</string>
     <string name="yes" msgid="4676390750360727396">"是"</string>
     <string name="no" msgid="6731231425810196216">"否"</string>
     <string name="create" msgid="3578857613172647409">"创建"</string>
@@ -80,7 +80,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"格式化USB存储设备"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"格式化SD卡"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"预览"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"预览第 <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> 页（共 <xliff:g id="NUM_PAGES">%2$d</xliff:g> 页）"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"预览第 <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> 页（共 <xliff:g id="NUM_PAGES">%2$d</xliff:g> 页）"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"缩小或放大屏幕上的文字。"</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"缩小"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"放大"</string>
@@ -584,7 +584,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"更改解锁图案"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"更改解锁PIN码"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"更改解锁密码"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"请重试。您目前已尝试 <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> 次，最多可尝试 <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> 次。"</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"请重试。您目前已尝试 <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> 次，最多可尝试 <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> 次。"</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"您的数据将遭到删除"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"如果您下次绘制的解锁图案仍然有误，系统将删除此设备上的数据"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"如果您下次输入的 PIN 码仍然有误，系统将删除此设备上的数据"</string>
@@ -1518,12 +1518,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"手机套餐"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"短信应用"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"要更改短信应用吗？"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"要使用“<xliff:g id="NEW_APP">%1$s</xliff:g>”取代“<xliff:g id="CURRENT_APP">%2$s</xliff:g>”作为您的短信应用吗？"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"要使用“<xliff:g id="NEW_APP">%1$s</xliff:g>”取代“<xliff:g id="CUAliceENT_APP">%2$s</xliff:g>”作为您的短信应用吗？"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"要使用“<xliff:g id="NEW_APP">%s</xliff:g>”作为您的短信应用吗？"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"网络评分服务提供方"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"无"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"要更改WLAN助手吗？"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"不再使用<xliff:g id="CURRENT_APP">%2$s</xliff:g>，而改用<xliff:g id="NEW_APP">%1$s</xliff:g>来管理您的网络连接吗？"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"不再使用<xliff:g id="CUAliceENT_APP">%2$s</xliff:g>，而改用<xliff:g id="NEW_APP">%1$s</xliff:g>来管理您的网络连接吗？"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"要使用<xliff:g id="NEW_APP">%s</xliff:g>管理您的网络连接吗？"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"未知的SIM卡运营商"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"<xliff:g id="OPERATOR">%1$s</xliff:g>没有任何已知的配置网站"</string>

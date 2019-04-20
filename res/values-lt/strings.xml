@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -81,7 +81,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"Ištrinti USB atmintinę"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"Ištrinti SD kortelę"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"Peržiūra"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"Peržiūra, <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> psl. iš <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"Peržiūra, <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> psl. iš <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"Sumažinkite arba padidinkite ekrane rodomą tekstą."</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"Padaryti mažesnius"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"Padaryti didesnius"</string>
@@ -589,7 +589,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"Keisti atrakinimo modelį"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"Pakeisti atrakinimo PIN kodą"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"Pakeisti atrakinimo slaptažodį"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Bandykite dar kartą. <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> band. iš <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>."</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Bandykite dar kartą. <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> band. iš <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>."</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"Duomenys bus ištrinti"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"Jei kitu bandymu nupiešite netinkamą atrakinimo piešinį, šio įrenginio duomenys bus ištrinti"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"Jei kitu bandymu įvesite netinkamą PIN kodą, šio įrenginio duomenys bus ištrinti"</string>
@@ -1543,12 +1543,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"Mobiliojo ryšio planas"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS programa"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"Pakeisti SMS programą?"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"Naudoti „<xliff:g id="NEW_APP">%1$s</xliff:g>“ kaip SMS programą vietoj „<xliff:g id="CURRENT_APP">%2$s</xliff:g>“?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"Naudoti „<xliff:g id="NEW_APP">%1$s</xliff:g>“ kaip SMS programą vietoj „<xliff:g id="CUAliceENT_APP">%2$s</xliff:g>“?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"Naudoti „<xliff:g id="NEW_APP">%s</xliff:g>“ kaip SMS programą?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"Tinklo įvertinimo paslaugos teikėjas"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"Nėra"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"Pakeisti „Wi-Fi“ pagelbiklį?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"Naudoti <xliff:g id="NEW_APP">%1$s</xliff:g> vietoje <xliff:g id="CURRENT_APP">%2$s</xliff:g> tinklo ryšiams tvarkyti?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"Naudoti <xliff:g id="NEW_APP">%1$s</xliff:g> vietoje <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> tinklo ryšiams tvarkyti?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"Naudoti <xliff:g id="NEW_APP">%s</xliff:g> tinklo ryšiams tvarkyti?"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"Nežinomas SIM operatorius"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"„<xliff:g id="OPERATOR">%1$s</xliff:g>“ neturi jokios žinomos aprūpinimo svetainės"</string>

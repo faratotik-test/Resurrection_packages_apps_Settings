@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"Effacer la mémoire de stockage USB"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"Effacer la carte SD"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"Aperçu"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"Aperçu : page <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> sur <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"Aperçu : page <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> sur <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"Agrandissez ou réduisez le texte affiché."</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"Rapetisser"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"Agrandir"</string>
@@ -583,7 +583,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"Modifier le schéma"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"Modifier le NIP de déverrouillage"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"Modifier le mot de passe de déverrouillage"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Réessayez. Tentative <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> sur <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>."</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Réessayez. Tentative <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> sur <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>."</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"Vos données seront supprimées"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"Si vous entrez un schéma incorrect à la prochaine tentative, les données de cet appareil seront supprimées."</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"Si vous entrez un NIP incorrect à la prochaine tentative, les données de cet appareil seront supprimées."</string>
@@ -1517,12 +1517,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"Forfait de données cellulaires"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"Application de messagerie texte"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"Modifier l\'application de messagerie texte?"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"Utiliser <xliff:g id="NEW_APP">%1$s</xliff:g> au lieu de <xliff:g id="CURRENT_APP">%2$s</xliff:g> comme application de messagerie texte?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"Utiliser <xliff:g id="NEW_APP">%1$s</xliff:g> au lieu de <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> comme application de messagerie texte?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"Utiliser <xliff:g id="NEW_APP">%s</xliff:g> comme application de messagerie texte?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"Fournisseur d\'avis sur le réseau"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"Aucun"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"Changer d\'assistant Wi‑Fi?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"Utilisez <xliff:g id="NEW_APP">%1$s</xliff:g> au lieu de <xliff:g id="CURRENT_APP">%2$s</xliff:g> pour gérer vos connexions réseau?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"Utilisez <xliff:g id="NEW_APP">%1$s</xliff:g> au lieu de <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> pour gérer vos connexions réseau?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"Utiliser <xliff:g id="NEW_APP">%s</xliff:g> pour gérer vos connexions réseau?"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"Fournisseur de la carte SIM inconnu"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"Aucun site Web de configuration connu pour <xliff:g id="OPERATOR">%1$s</xliff:g>"</string>
@@ -2437,7 +2437,7 @@
     <string name="credentials_not_erased" msgid="7685932772284216097">"Impossible eff. stockage identifiants."</string>
     <string name="credentials_enabled" msgid="7588607413349978930">"Stockage des identifiants activé."</string>
     <string name="credentials_configure_lock_screen_hint" msgid="8058230497337529036">"Avant de pouvoir utiliser le stockage des authentifiants, votre appareil doit avoir un verrouillage d\'écran sécuritaire"</string>
-    <string name="credentials_configure_lock_screen_button" msgid="253239765216055321">"DÉFINIR VERR. D\'ÉCRAN"</string>
+    <string name="credentials_configure_lock_screen_button" msgid="253239765216055321">"DÉFINIR VEAlice. D\'ÉCRAN"</string>
     <string name="usage_access_title" msgid="332333405495457839">"Applis avec accès données"</string>
     <string name="emergency_tone_title" msgid="254495218194925271">"Signal de composition d\'urgence"</string>
     <string name="emergency_tone_summary" msgid="722259232924572153">"Définir le comportement en cas d\'appel d\'urgence"</string>

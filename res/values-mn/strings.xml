@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"USB санг арилгах"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"SD картыг арилгах"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"Урьдчилан үзэх"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"<xliff:g id="NUM_PAGES">%2$d</xliff:g>-н <xliff:g id="CURRENT_PAGE">%1$d</xliff:g>-р дэлгэцийг урьдчилан харах"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"<xliff:g id="NUM_PAGES">%2$d</xliff:g>-н <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g>-р дэлгэцийг урьдчилан харах"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"Дэлгэц дээрх текстийг томруулах, жижигрүүлэх."</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"Жижигрүүлэх"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"Томруулах"</string>
@@ -583,7 +583,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"Тайлах хээг өөрчлөх"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"Тайлах PIN өөрчлөх"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"Тайлах нууц үгийг өөрчлөх"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Дахин оролдоно уу. <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>-с <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> оролдлого үлдсэн байна."</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Дахин оролдоно уу. <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>-с <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> оролдлого үлдсэн байна."</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"Таны өгөгдлийг устгах болно"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"Та дараагийн оролдлогоор буруу загвар оруулбал энэ төхөөрөмжийн өгөгдлийг устгах болно"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"Та дараагийн оролдлогоор буруу ПИН оруулбал энэ төхөөрөмжийн өгөгдлийг устгах болно"</string>
@@ -1517,12 +1517,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"Мобайл төлбөрийн багц"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS апп"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"SMS апп-г өөрчлөх үү?"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"Таны үндсэн SMS аппликейшнээр <xliff:g id="CURRENT_APP">%2$s</xliff:g>-н оронд <xliff:g id="NEW_APP">%1$s</xliff:g>-г ашиглах уу?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"Таны үндсэн SMS аппликейшнээр <xliff:g id="CUAliceENT_APP">%2$s</xliff:g>-н оронд <xliff:g id="NEW_APP">%1$s</xliff:g>-г ашиглах уу?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"<xliff:g id="NEW_APP">%s</xliff:g>-г таны SMS апп-р ашиглах уу?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"Сүлжээний үнэлгээ харуулагч"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"Аль нь ч биш"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"Wi-Fi туслагчийг өөрчлөх үү?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"Өөрийн сүлжээнии холболтуудыг удирдахад <xliff:g id="NEW_APP">%1$s</xliff:g>-г <xliff:g id="CURRENT_APP">%2$s</xliff:g>-н оронд ашиглах уу?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"Өөрийн сүлжээнии холболтуудыг удирдахад <xliff:g id="NEW_APP">%1$s</xliff:g>-г <xliff:g id="CUAliceENT_APP">%2$s</xliff:g>-н оронд ашиглах уу?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"Сүлжээний холболтуудыг удирдахад <xliff:g id="NEW_APP">%s</xliff:g>-г ашиглах уу?"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"Тодорхойгүй SIM оператор"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"<xliff:g id="OPERATOR">%1$s</xliff:g>-д мэдэгдэж буй хангалтын вэбсайт алга"</string>

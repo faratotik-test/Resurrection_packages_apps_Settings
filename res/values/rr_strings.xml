@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2015 The ResurrectionRemix Project
+<!-- Copyright (C) 2015 The Alice Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -9,19 +9,19 @@
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="rr_mod_version">RR-OS version</string>
+    <string name="rr_mod_version">Alice-OS version</string>
     <string name="build_date">Build date</string>
     <string name="mod_version_default">Default</string>
 
     <!-- General -->
     <string name="ok">Okay</string>
     <string name="reset">Reset</string>
-    <string name="dlg_reset_rr">RR</string>
+    <string name="dlg_reset_rr">Alice</string>
     <string name="dlg_reset_android">Default</string>
     <string name="default_string">Default</string>
     <string name="add">Add</string>
@@ -32,14 +32,14 @@
     <string name="attention">Attention</string>
     <string name="restart_systemui">Restart UI</string>
 
-    <!-- About RR -->
+    <!-- About Alice -->
     <string name="about_rr_settings">About</string>
     <string name="about_rr">About</string>
     <string name="about_rr_summary">@null</string>
-    <string name="about_r0m_summary">Everything about the Resurrection Remix OS</string>
+    <string name="about_r0m_summary">Everything about the Alice OS</string>
     <string name="rr_donate">Donate to development</string>
-    <string name="rr_donate_summary">Show your support to Resurrection Remix OS</string>
-    <string name="app_name">Resurrection Remix OS</string>
+    <string name="rr_donate_summary">Show your support to Alice OS</string>
+    <string name="app_name">Alice OS</string>
 
    <!-- Advanced night mode brightness -->
    <string name="night_brightness_category">Brightness</string>
@@ -121,17 +121,17 @@
     <string name="github_mracar">https://github.com/mracar07</string> 
     <string name="rr">Links</string>
     <string name="rr_website_title">Website</string>
-    <string name="rr_website_summary">Get more information about Resurrection Remix OS</string>
+    <string name="rr_website_summary">Get more information about Alice OS</string>
     <string name="rr_telegram_title">Telegram</string>
     <string name="rr_telegram_summary">Telegram on topic chat</string>
     <string name="rr_source_title">Github</string>
-    <string name="rr_source_summary">Resurrection Remix OS sources</string>
+    <string name="rr_source_summary">Alice OS sources</string>
     <string name="rr_facebook_title">Facebook</string>
     <string name="rr_facebook_summary">Facebook community</string>
     <string name="rr_google_plus_title">Google</string>
     <string name="rr_google_plus_summary">Google+ community</string>
     <string name="rr_pb_title">PitchBlack Theme</string>
-    <string name="rr_pb_summary">Official substratum theme of Resurrection Remix OS</string>
+    <string name="rr_pb_summary">Official substratum theme of Alice OS</string>
     <string name="rr_twitter_title">Twitter</string>
     <string name="rr_twitter_summary">Twitter account</string>
     <string name="maintainer_categorie_title">Official Devices</string>
@@ -155,7 +155,7 @@
     <string name="support_team_title">Moderator Tag</string>
 
     <string name="device_maintainers_title">Devices and maintainers</string>
-    <string name="device_maintainers_title_summary">List of devices and their official RR-OS maintainers</string>
+    <string name="device_maintainers_title_summary">List of devices and their official Alice-OS maintainers</string>
     <string name="maintainers_note_title">Note</string>
     <string name="maintainers_note_title_summary">Make a pull request on Settings app with your name against your device if you want to apply to be a maintainer for a certain device</string>
     <string name="device_summary"><xliff:g example="goldfish" id="codename">%1$s</xliff:g>\nMaintainer - <xliff:g example="deletescape" id="maintainer">%2$s</xliff:g></string>
@@ -169,7 +169,7 @@
     <string name="commit_id">Lockscreen Commit ID</string>
     <string name="commit_message">Commit message</string>
 
-    <!-- RR Feature lists-->
+    <!-- Alice Feature lists-->
     <string name="features_title">Features</string>
     <string name="features_title_summary">View available features</string>
     <string name="features_loading">Loading list ...</string>
@@ -188,18 +188,18 @@
     <string name="power_menu_bug_report_disabled">Bug reporting is disabled in development settings</string>
     <string name="power_menu_lockdown_title">Lockdown</string>
 
-     <!-- About phone screen, RR version -->
-    <string name="rr_version">ResurrectionRemix version</string>
+     <!-- About phone screen, Alice version -->
+    <string name="rr_version">Alice version</string>
     <string name="rr_version_default">Unknown</string>
     <string name="keywords_rr_version">rr version</string>
 
-    <!-- Share RR ROM -->
+    <!-- Share Alice ROM -->
     <string name="share_rr">Share</string>
-    <string name="share_rr_summary">Let people know you use Resurrection Remix OS</string>
-    <string name="share_message">Try Resurrection Remix OS! https://plus.google.com/communities/109352646351468373340</string>
-    <string name="share_chooser_title">Share Resurrection Remix OS via...</string>
+    <string name="share_rr_summary">Let people know you use Alice OS</string>
+    <string name="share_message">Try Alice OS! https://plus.google.com/communities/109352646351468373340</string>
+    <string name="share_chooser_title">Share Alice OS via...</string>
 
-    <!-- RR Changelog-->
+    <!-- Alice Changelog-->
     <string name="changelog_title">Changelog</string>
     <string name="changelog_title_summary">View recent changes in ROM</string>
     <string name="changelog_loading">Loading changelog...</string>
@@ -217,11 +217,11 @@
     <string name="changelog_time_2_weeks">Two weeks ago</string>
     <string name="changelog_time_3_weeks">Three weeks ago</string>
 
-    <!--RR Configurations-->
+    <!--Alice Configurations-->
     <string name="fab_updates">Updates</string>
     <string name="fab_restartui">Restart UI</string>
     <string name="fab_reset">Reset</string>
-    <string name="fab_about">About RR-OS</string>
+    <string name="fab_about">About Alice-OS</string>
     <string name="fab_layout">Update layout</string>
     <string name="fab_layout_tabs">Toggle tabs layout</string>
     <string name="fab_layout_update">Toggle classic layout</string>
@@ -234,7 +234,7 @@
     <string name="rr_category_title">Personalization</string>
     <string name="rr_title">Resurrection tools</string>
     <string name="rr_title_summary">ROM customizations</string>
-    <string name="rr_config_main_title">RR-OS</string>
+    <string name="rr_config_main_title">Alice-OS</string>
     <string name="rr_ota_fab_title">Show floating button</string>
     <string name="rr_ota_fab_summary">Enable/disable to show/hide floating button in configurations. Enter/exit once when switch used</string>
     <string name="rr_statusbar_title">Status bar</string>
@@ -461,7 +461,7 @@
     <string name="status_bar_battery_style_text">Text</string>
     <string name="status_bar_battery_style_hidden">Hidden</string>
 
-    <!--RR statusbar logo -->
+    <!--Alice statusbar logo -->
     <string name="status_bar_logo_title">Brand logo</string>
     <string name="status_bar_rr_logo_position">Logo location</string>
     <string name="status_bar_rr_logo_position_summary">Choose which side to display the logo on, left or right</string>
@@ -522,7 +522,7 @@
     <string name="battery_blend_end">Full</string>
     <string name="battery_blend_between">Between</string>
 
-    <!--RR Configurations Summaries-->
+    <!--Alice Configurations Summaries-->
     <string name="status_bar_clock_summary">Customize various elements of the statusbar clock </string>
     <string name="status_bar_logo_summary">Enable or disable Resurrection logo in statusbar. Customize colour and position</string>
     <string name="sb_custom_logos_summary">Enable or disable icons in statusbar. Customize their elements and position</string>
@@ -1345,8 +1345,8 @@
     <string name="data_disabled_icon_title">Show data disabled icon</string>
     <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
 
-    <!-- RR Settings tabs slide effects -->
-    <string name="tabs_effect_title">RR configuration tabs transition effect</string>
+    <!-- Alice Settings tabs slide effects -->
+    <string name="tabs_effect_title">Alice configuration tabs transition effect</string>
     <string name="effect_default">Default</string>
     <string name="effect_accordion">Accordion</string>
     <string name="effect_background_to_foreground">Background to foreground</string>
@@ -1906,17 +1906,17 @@
     <string name="navbar_dynamic_summary">Adapt navbar color to match foreground running app</string>
     <string name="restart_app_required">Restart respective app to see effect</string>
 
-    <!-- RR config options -->
-    <string name="rr_config_tabs_update_message">You are about to change layout to tabs (nougat) which was present in previous versions of RR-OS and is the default one. Are you sure you want to continue?</string>
-    <string name="rr_config_classic_update_message">You are about to change layout to classic (marshmallow) which was present in previous versions of RR-OS. Are you sure you want to continue?</string>
-    <string name="rr_config_navigation_update_message">You are about to change layout to bottom navigation layout (oreo) which is a brand new layout in RR-OS configurations. It might be a little different that the usual layout. Are you sure you want to continue?</string>
+    <!-- Alice config options -->
+    <string name="rr_config_tabs_update_message">You are about to change layout to tabs (nougat) which was present in previous versions of Alice-OS and is the default one. Are you sure you want to continue?</string>
+    <string name="rr_config_classic_update_message">You are about to change layout to classic (marshmallow) which was present in previous versions of Alice-OS. Are you sure you want to continue?</string>
+    <string name="rr_config_navigation_update_message">You are about to change layout to bottom navigation layout (oreo) which is a brand new layout in Alice-OS configurations. It might be a little different that the usual layout. Are you sure you want to continue?</string>
     <string name="rr_config_navigation_color_enable_title">Enable custom navigation color</string>
-    <string name="rr_config_navigation_color_enabled">Enable custom color for bottom navigtation in RR</string>
+    <string name="rr_config_navigation_color_enabled">Enable custom color for bottom navigtation in Alice</string>
     <string name="rr_config_navigation_color_title">Custom bottom navigation color</string>
 
-     <!-- RR summary text -->
-    <string name="rr_settings_summary_title">Custom RR summary text in Settings application</string>
-    <string name="custom_summary_title">Custom RR summary</string>
+     <!-- Alice summary text -->
+    <string name="rr_settings_summary_title">Custom Alice summary text in Settings application</string>
+    <string name="custom_summary_title">Custom Alice summary</string>
     <string name="custom_summary_explain">Please enter a new summary. Leave blank to revert to stock text.</string>
 
     <string name="custom_summary_randomize_title">Randomize summary</string>
@@ -1929,7 +1929,7 @@
     <string name="sum6">What else?</string>
     <string name="sum7">I am not your F1 button</string>
     <string name="sum8">You don\'t wanna miss this s***!</string>
-    <string name="sum9">Welcome to RR</string>
+    <string name="sum9">Welcome to Alice</string>
     <string name="sum10">Don\'t pass me!</string> 
     <string name="sum11">Did you finish your homework? ツ</string>
     <string name="sum12">Hello, i\'m your new assistant</string>

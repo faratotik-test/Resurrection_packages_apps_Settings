@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"USB-Speicher löschen"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"SD-Karte löschen"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"Vorschau"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"Vorschau, Seite <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> von <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"Vorschau, Seite <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> von <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"Text auf dem Display verkleinern oder vergrößern."</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"Verkleinern"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"Vergrößern"</string>
@@ -582,7 +582,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"Entsperrungsmuster ändern"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"Entsperrungs-PIN ändern"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"Entsperrungspasswort ändern"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Bitte versuche es noch einmal. Versuch <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> von <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>."</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Bitte versuche es noch einmal. Versuch <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> von <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>."</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"Deine Daten werden gelöscht"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"Wenn du beim nächsten Versuch ein falsches Muster eingibst, werden die Daten auf diesem Gerät gelöscht"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"Wenn du beim nächsten Versuch eine falsche PIN eingibst, werden die Daten auf diesem Gerät gelöscht"</string>
@@ -1517,12 +1517,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"Mobilfunktarif"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS-App"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"SMS-App wechseln?"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"<xliff:g id="NEW_APP">%1$s</xliff:g> statt <xliff:g id="CURRENT_APP">%2$s</xliff:g> als SMS-App verwenden?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"<xliff:g id="NEW_APP">%1$s</xliff:g> statt <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> als SMS-App verwenden?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"<xliff:g id="NEW_APP">%s</xliff:g> als SMS-App verwenden?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"Anbieter von Netzwerkbewertungen"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"Keine"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"WLAN-Assistenten ändern?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"<xliff:g id="NEW_APP">%1$s</xliff:g> statt <xliff:g id="CURRENT_APP">%2$s</xliff:g> zur Verwaltung von Netzwerkverbindungen nutzen?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"<xliff:g id="NEW_APP">%1$s</xliff:g> statt <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> zur Verwaltung von Netzwerkverbindungen nutzen?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"<xliff:g id="NEW_APP">%s</xliff:g> zur Verwaltung von Netzwerkverbindungen nutzen?"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"Unbekannter SIM-Anbieter"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"<xliff:g id="OPERATOR">%1$s</xliff:g> hat keine bekannte Bereitstellungswebsite"</string>
@@ -2437,7 +2437,7 @@
     <string name="credentials_not_erased" msgid="7685932772284216097">"Anmeldedaten nicht gelöscht"</string>
     <string name="credentials_enabled" msgid="7588607413349978930">"Der Anmeldedatenspeicher ist aktiviert."</string>
     <string name="credentials_configure_lock_screen_hint" msgid="8058230497337529036">"Damit du den Anmeldedatenspeicher verwenden kannst, muss auf deinem Gerät ein sicherer Sperrbildschirm eingerichtet sein"</string>
-    <string name="credentials_configure_lock_screen_button" msgid="253239765216055321">"SPERRE EINRICHTEN"</string>
+    <string name="credentials_configure_lock_screen_button" msgid="253239765216055321">"SPEAliceE EINRICHTEN"</string>
     <string name="usage_access_title" msgid="332333405495457839">"Apps mit Nutzungsdatenzugriff"</string>
     <string name="emergency_tone_title" msgid="254495218194925271">"Notrufsignal"</string>
     <string name="emergency_tone_summary" msgid="722259232924572153">"Verhalten bei einem Notruf festlegen"</string>

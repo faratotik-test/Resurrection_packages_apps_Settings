@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"USB சேமிப்பிடத்தை அழி"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"SD கார்டை அழி"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"மாதிரிக்காட்சி"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"மாதிரிக்காட்சி, பக்கம்: <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> / <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"மாதிரிக்காட்சி, பக்கம்: <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> / <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"திரையில் காட்டப்படும் உரையைச் சிறிதாக்கும் அல்லது பெரிதாக்கும்."</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"சிறிதாக்கு"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"பெரிதாக்கு"</string>
@@ -583,7 +583,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"திறப்பதற்கான வடிவத்தை மாற்று"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"திறக்கும் பின்னை மாற்று"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"திறப்பதற்கான கடவுச்சொல்லை மாற்று"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"மீண்டும் முயலவும். <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> இல் <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> முறை முயன்றுவிட்டீர்கள்."</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"மீண்டும் முயலவும். <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> இல் <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> முறை முயன்றுவிட்டீர்கள்."</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"உங்கள் தரவு நீக்கப்படும்"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"அடுத்த முறை தவறான பேட்டர்னை வரைந்தால், சாதனத்தின் தரவு நீக்கப்படும்"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"அடுத்த முறை தவறான பின்னை உள்ளிட்டால், சாதனத்தின் தரவு நீக்கப்படும்"</string>
@@ -1517,12 +1517,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"மொபைல் திட்டம்"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"SMS பயன்பாட்டை மாற்றவா?"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"<xliff:g id="CURRENT_APP">%2$s</xliff:g>க்குப் பதிலாக <xliff:g id="NEW_APP">%1$s</xliff:g>ஐ உங்கள் SMS பயன்பாடாகப் பயன்படுத்தவா?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"<xliff:g id="CUAliceENT_APP">%2$s</xliff:g>க்குப் பதிலாக <xliff:g id="NEW_APP">%1$s</xliff:g>ஐ உங்கள் SMS பயன்பாடாகப் பயன்படுத்தவா?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"<xliff:g id="NEW_APP">%s</xliff:g>ஐ உங்கள் SMS பயன்பாடாகப் பயன்படுத்தவா?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"நெட்வொர்க் மதிப்பீட்டு வழங்குநர்"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"ஏதுமில்லை"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"வைஃபை அசிஸ்டண்டை மாற்றவா?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"நெட்வொர்க் இணைப்புகளை நிர்வகிக்க, <xliff:g id="CURRENT_APP">%2$s</xliff:g>க்குப் பதிலாக <xliff:g id="NEW_APP">%1$s</xliff:g>ஐப் பயன்படுத்தவா?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"நெட்வொர்க் இணைப்புகளை நிர்வகிக்க, <xliff:g id="CUAliceENT_APP">%2$s</xliff:g>க்குப் பதிலாக <xliff:g id="NEW_APP">%1$s</xliff:g>ஐப் பயன்படுத்தவா?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"நெட்வொர்க் இணைப்புகளை நிர்வகிக்க <xliff:g id="NEW_APP">%s</xliff:g>ஐப் பயன்படுத்தவா?"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"அறியப்படாத சிம் மொபைல் நிறுவனம்"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"<xliff:g id="OPERATOR">%1$s</xliff:g> இடம், தெரிந்த புரொவிஷனிங் இணைதளம் இல்லை"</string>

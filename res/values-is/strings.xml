@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"Hreinsa út af USB geymslu"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"Hreinsa út af SD-korti"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"Forskoðun"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"Forskoðun, síða <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> af <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"Forskoðun, síða <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> af <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"Stækkaðu eða minnkaðu texta á skjá."</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"Minnka"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"Stækka"</string>
@@ -583,7 +583,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"Breyta opnunarmynstri"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"Breyta PIN-númeri"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"Breyta aðgangsorði opnunar"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Reyndu aftur. Tilraun <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> af <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>."</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"Reyndu aftur. Tilraun <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> af <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>."</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"Gögnunum þínum verður eytt"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"Ef þú slærð inn rangt mynstur í næstu tilraun verður gögnum tækisins eytt"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"Ef þú slærð inn rangt PIN-númer í næstu tilraun verður gögnum tækisins eytt"</string>
@@ -1517,12 +1517,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"Farsímaáskrift"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS-forrit"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"Skipta um SMS-forrit?"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"Nota <xliff:g id="NEW_APP">%1$s</xliff:g> í stað <xliff:g id="CURRENT_APP">%2$s</xliff:g> sem SMS-forrit?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"Nota <xliff:g id="NEW_APP">%1$s</xliff:g> í stað <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> sem SMS-forrit?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"Nota <xliff:g id="NEW_APP">%s</xliff:g> sem SMS-forrit?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"Netgæðaveita"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"Ekkert"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"Skipta um Wi-Fi aðstoð?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"Nota <xliff:g id="NEW_APP">%1$s</xliff:g> í stað <xliff:g id="CURRENT_APP">%2$s</xliff:g> til að stjórna nettengingunum þínum?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"Nota <xliff:g id="NEW_APP">%1$s</xliff:g> í stað <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> til að stjórna nettengingunum þínum?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"Nota <xliff:g id="NEW_APP">%s</xliff:g> til að stjórna nettengingunum þínum?"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"Óþekkt símafyrirtæki SIM-korts"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"<xliff:g id="OPERATOR">%1$s</xliff:g> er ekki með neitt þekkt úthlutunarvefsvæði"</string>
@@ -2572,7 +2572,7 @@
     <string name="data_usage_app_summary_title" msgid="4147258989837459172">"Gagnanotkun forrits"</string>
     <string name="data_usage_accounting" msgid="7170028915873577387">"Gagnaútreikningur símafyrirtækisins kann að sýna aðra niðurstöðu en tækið þitt."</string>
     <string name="data_usage_app" msgid="4970478397515423303">"Forritanotkun"</string>
-    <string name="data_usage_app_info_label" msgid="3409931235687866706">"UPPLÝSINGAR FORRITS"</string>
+    <string name="data_usage_app_info_label" msgid="3409931235687866706">"UPPLÝSINGAR FOAliceITS"</string>
     <string name="data_usage_cellular_data" msgid="9168928285122125137">"Farsímagögn"</string>
     <string name="data_usage_data_limit" msgid="1193930999713192703">"Velja gagnatakmörk"</string>
     <string name="data_usage_cycle" msgid="5652529796195787949">"Tímabil gagnanotkunar"</string>

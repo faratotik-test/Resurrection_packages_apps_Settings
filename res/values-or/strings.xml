@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
@@ -79,7 +79,7 @@
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"USB ଷ୍ଟୋରେଜ୍‌କୁ ଫର୍ମାଟ୍‌ କରନ୍ତୁ"</string>
     <string name="sdcard_format" product="default" msgid="6713185532039187532">"SD କାର୍ଡ ଲିଭାନ୍ତୁ"</string>
     <string name="preview_pager_content_description" msgid="8926235999291761243">"ପୂର୍ବାବଲୋକନ"</string>
-    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"<xliff:g id="NUM_PAGES">%2$d</xliff:g>ର <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> ପ୍ରିଭ୍ୟୁ, ପୃଷ୍ଠା"</string>
+    <string name="preview_page_indicator_content_description" msgid="4821343428913401264">"<xliff:g id="NUM_PAGES">%2$d</xliff:g>ର <xliff:g id="CUAliceENT_PAGE">%1$d</xliff:g> ପ୍ରିଭ୍ୟୁ, ପୃଷ୍ଠା"</string>
     <string name="font_size_summary" msgid="1690992332887488183">"ସ୍କ୍ରୀନ୍‌ ଉପରେ ଥିବା ଅକ୍ଷରଗୁଡ଼ିକୁ ଛୋଟ କିମ୍ୱା ବଡ଼ କରନ୍ତୁ।"</string>
     <string name="font_size_make_smaller_desc" msgid="7919995133365371569">"ଛୋଟ କରନ୍ତୁ"</string>
     <string name="font_size_make_larger_desc" msgid="4316986572233686061">"ବହୁତ ବଡ଼ କରନ୍ତୁ"</string>
@@ -582,7 +582,7 @@
     <string name="unlock_change_lock_pattern_title" msgid="2044092014872741130">"ଅନଲକ ପାଟର୍ନ ବଦଳାନ୍ତୁ"</string>
     <string name="unlock_change_lock_pin_title" msgid="806629901095938484">"ଅନଲକ୍‌ PIN ବଦଳାନ୍ତୁ"</string>
     <string name="unlock_change_lock_password_title" msgid="5606298470358768865">"ଅନଲକ୍‌ ପାସୱାର୍ଡ୍ ବଦଳାନ୍ତୁ"</string>
-    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ। <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> ର <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> ପ୍ରୟାସ।"</string>
+    <string name="lock_failed_attempts_before_wipe" msgid="2219711062197089783">"ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ। <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g> ର <xliff:g id="CUAliceENT_ATTEMPTS">%1$d</xliff:g> ପ୍ରୟାସ।"</string>
     <string name="lock_last_attempt_before_wipe_warning_title" msgid="4277765862798876826">"ଆପଣଙ୍କର ଡାଟାକୁ ଡିଲିଟ୍‌ କରିଦିଆଯିବ"</string>
     <string name="lock_last_pattern_attempt_before_wipe_device" msgid="1688030823464420974">"ପରବର୍ତ୍ତୀ ପ୍ରୟାସରେ ଯଦି ଆପଣ ଭୁଲ ଶୈଳୀ ପ୍ରବେଶ କରନ୍ତି, ତେବେ ଏହି ଡିଭାଇସର ଡାଟା ବିଲୋପ ହୋଇଯିବ"</string>
     <string name="lock_last_pin_attempt_before_wipe_device" msgid="5350785938296254352">"ପରବର୍ତ୍ତୀ ପ୍ରୟାସରେ ଯଦି ଆପଣ ଭୁଲ PIN ପ୍ରବେଶ କରନ୍ତି, ତେବେ ଏହି ଡିଭାଇସର ଡାଟା ବିଲୋପ ହୋଇଯିବ"</string>
@@ -1516,12 +1516,12 @@
     <string name="manage_mobile_plan_title" msgid="7630170375010107744">"ମୋବାଇଲ୍‌ ପ୍ଲାନ୍‌"</string>
     <string name="sms_application_title" msgid="4903928270533250448">"SMS ଆପ୍‌"</string>
     <string name="sms_change_default_dialog_title" msgid="1958688831875804286">"SMS ଆପ୍‌ ବଦଳାଇବେ?"</string>
-    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"<xliff:g id="CURRENT_APP">%2$s</xliff:g> ବଦଳରେ <xliff:g id="NEW_APP">%1$s</xliff:g> କୁ ଆପଣଙ୍କ SMS ଆପ୍‌ ପରି ବ୍ୟବହାର କରିବେ?"</string>
+    <string name="sms_change_default_dialog_text" msgid="1522783933230274787">"<xliff:g id="CUAliceENT_APP">%2$s</xliff:g> ବଦଳରେ <xliff:g id="NEW_APP">%1$s</xliff:g> କୁ ଆପଣଙ୍କ SMS ଆପ୍‌ ପରି ବ୍ୟବହାର କରିବେ?"</string>
     <string name="sms_change_default_no_previous_dialog_text" msgid="602683880284921998">"<xliff:g id="NEW_APP">%s</xliff:g> କୁ ଆପଣଙ୍କ ଏସ୍‌ଏମ୍‌ଏସ୍‌ ଆପ୍‌ ପରି ବ୍ୟବହାର କରିବେ?"</string>
     <string name="network_scorer_picker_title" msgid="6383879578279046456">"ନେଟ୍‌ୱର୍କ ରେଟିଙ୍ଗ ପ୍ରଦାତା"</string>
     <string name="network_scorer_picker_none_preference" msgid="9028375117241790936">"କିଛି ନୁହେଁ"</string>
     <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"Wi‑Fi ସହାଯକ ପରିବର୍ତ୍ତନ କରିବେ?"</string>
-    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"ନିଜ ନେଟ୍‌ୱର୍କ ସଂଯୋଗ ପରିଚାଳନା କରିବା ପାଇଁ <xliff:g id="CURRENT_APP">%2$s</xliff:g> ବଦଳରେ <xliff:g id="NEW_APP">%1$s</xliff:g> ବ୍ୟବହାର କରିବେ?"</string>
+    <string name="network_scorer_change_active_dialog_text" msgid="8035173880322990715">"ନିଜ ନେଟ୍‌ୱର୍କ ସଂଯୋଗ ପରିଚାଳନା କରିବା ପାଇଁ <xliff:g id="CUAliceENT_APP">%2$s</xliff:g> ବଦଳରେ <xliff:g id="NEW_APP">%1$s</xliff:g> ବ୍ୟବହାର କରିବେ?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="7444620909047611601">"ନିଜର ନେଟ୍‌ୱର୍କ ସଂଯୋଗ ପରିଚାଳନା କରିବା ପାଇଁ <xliff:g id="NEW_APP">%s</xliff:g>ର ବ୍ୟବହାର କରିବେ?"</string>
     <string name="mobile_unknown_sim_operator" msgid="2156912373230276157">"ଅଜଣା ସିମ୍‌ ଅପରେଟର୍‌"</string>
     <string name="mobile_no_provisioning_url" msgid="9053814051811634125">"<xliff:g id="OPERATOR">%1$s</xliff:g> ଙ୍କର କୌଣସି ଜ୍ଞାତ ପ୍ରାବଧାନୀକରଣ ୱେବସାଇଟ୍‌ ନାହିଁ"</string>
